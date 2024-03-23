@@ -1,0 +1,6 @@
+ChatBoot hali için: 
+consult('/Users/zeynepelmaci/Documents/Projeler/MantıksalProgramlama/deneme.pl'). start. 
+
+
+şimdilik bu:
+['/Users/zeynepelmaci/Documents/Projeler/MantıksalProgramlama/deneme.pl']
